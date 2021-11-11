@@ -22,7 +22,7 @@ export default defineComponent({
     },
     placeholder: {
       type: String,
-      default: '',
+      default: '0.00',
     },
   },
 });
