@@ -1,4 +1,4 @@
-# aib-vue-ts-boilerplate
+# raymahni-token-swapper
 
 ## Project setup
 ```
